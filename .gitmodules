@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = docs
+	url = git@github.com:jmtd/test-app-templates-doc-output.git
